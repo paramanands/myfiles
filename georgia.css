@@ -2,23 +2,23 @@
   font-family: myGeorgia;
   font-style: normal;
   font-weight: normal;
-  src: local('Georgia'), url('https://dl.dropboxusercontent.com/u/143641614/fonts/georgia.woff') format('woff');
+  src: local('Georgia'), url('https://raw.githubusercontent.com/paramanands/myfiles/master/georgia.woff') format('woff');
 }
 @font-face {
   font-family: myGeorgia;
   font-style: italic;
   font-weight: normal;
-  src: local('Georgia Italic'), url('https://dl.dropboxusercontent.com/u/143641614/fonts/georgiai.woff') format('woff');
+  src: local('Georgia Italic'), url('https://raw.githubusercontent.com/paramanands/myfiles/master/georgiai.woff') format('woff');
 }
 @font-face {
   font-family: myGeorgia;
   font-style: normal;
   font-weight: bold;
-  src: local('Georgia Bold'), url('https://dl.dropboxusercontent.com/u/143641614/fonts/georgiab.woff') format('woff');
+  src: local('Georgia Bold'), url('https://raw.githubusercontent.com/paramanands/myfiles/master/georgiab.woff') format('woff');
 }
 @font-face {
   font-family: myGeorgia;
   font-style: italic;
   font-weight: bold;
-  src: local('Georgia Bold Italic'), url('https://dl.dropboxusercontent.com/u/143641614/fonts/georgiaz.woff') format('woff');
+  src: local('Georgia Bold Italic'), url('https://raw.githubusercontent.com/paramanands/myfiles/master/georgiaz.woff') format('woff');
 }
